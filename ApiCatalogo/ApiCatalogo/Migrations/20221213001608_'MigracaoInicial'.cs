@@ -21,7 +21,7 @@ namespace ApiCatalogo.Migrations
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     Nome = table.Column<string>(type: "longtext", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    ImagemUrl = table.Column<int>(type: "int", nullable: true)
+                    ImagemUrl = table.Column<string>(type: "varchar(300)", nullable: true)
                 },
                 constraints: table =>
                 {

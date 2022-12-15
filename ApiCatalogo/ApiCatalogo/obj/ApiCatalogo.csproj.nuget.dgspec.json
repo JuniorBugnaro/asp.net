@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj": {}
+    "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj": {
+    "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj",
+        "projectUniqueName": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
         "projectName": "ApiCatalogo",
-        "projectPath": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\apicatalogo\\ApiCatalogo.csproj",
+        "projectPath": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
         "packagesPath": "C:\\Users\\Junior Bugnaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\apicatalogo\\obj\\",
+        "outputPath": "C:\\Users\\Junior Bugnaro\\Documents\\estudos\\asp.net\\ApiCatalogo\\ApiCatalogo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
